@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/guilhermelirio-homeassistant-mpc-badge.png)](https://mseep.ai/app/guilhermelirio-homeassistant-mpc)
+
 [![smithery badge](https://smithery.ai/badge/@guilhermelirio/homeassistant-mpc)](https://smithery.ai/server/@guilhermelirio/homeassistant-mpc)
 
 # Home Assistant MCP
